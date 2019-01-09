@@ -11,3 +11,7 @@ $ pip2 install requests
 $ git clone https://github.com/Syhrularv/yahoo-picker
 ```
 # Usage
+```
+$ cd yahoo-picker
+$ python2 yahuu.py
+```
