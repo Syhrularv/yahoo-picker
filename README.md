@@ -10,3 +10,4 @@ $ pkg install python2
 $ pip2 install requests
 $ git clone https://github.com/Syhrularv/yahoo-picker
 ```
+# Usage
